@@ -57,7 +57,7 @@ I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </table>
 
 
-## :fire: Статистика на GitHub
+## ⚙️ GitHub статистика:
 <div>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninetreba&theme=github" width="561"/>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninetreba&theme=github"  width="273"/>   <br>    
