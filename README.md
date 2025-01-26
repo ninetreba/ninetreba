@@ -20,17 +20,16 @@
 
 
 
-### :man_technologist: About Me :
-I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :man_technologist: О себе :
+Я Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I am a backend .NET programmer with experience in commercial desktop application development.
+- :telescope: Реализовал несколько pet-проектов
+- :seedling: Активно продолжаю изучать Java и бэкенд в целом
+- :seedling: English - upper-intermediate
+- :mailbox:Для связи: [![Telegram Badge](https://img.shields.io/badge/netreba-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/netreba)
 
-- :seedling: I continuously improve my level of tool proficiency and expand my understanding of development concepts.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/netreba-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/netreba)
-
-
-## 🛠 стек:
+## 🛠 Стек:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
