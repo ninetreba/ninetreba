@@ -29,20 +29,15 @@ I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Sanier-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/netreba)
 
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠 стек:
 
-![C#](https://img.shields.io/badge/C%23-6572a1?style=for-the-badge)
-![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-6DB33F?style=for-the-badge)
-![WPF](https://img.shields.io/badge/WPF-2DBF3F?style=for-the-badge)
-![WF](https://img.shields.io/badge/WF-2DBF3F?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-2FF2FF?style=for-the-badge)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&label=github&labelColor=2088FF&color=DBEEFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JUnit](https://img.shields.io/badge/junit-%25A162.svg?style=for-the-badge&color=red&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
