@@ -17,3 +17,13 @@
 <h1>
   Hi, I'm Nikolai Netreba👋
 </h1>
+
+### :man_technologist: About Me :
+I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: I am a backend .NET programmer with experience in commercial desktop application development.
+
+- :seedling: I continuously improve my level of tool proficiency and expand my understanding of development concepts.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Sanier-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sanier)
+
