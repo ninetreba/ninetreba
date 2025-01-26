@@ -18,6 +18,7 @@
   Hi, I'm Nikolai Netreba👋
 </h1>
 
+
 ### :man_technologist: About Me :
 I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -28,7 +29,7 @@ I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Sanier-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/netreba)
 
 
-  ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 ![C#](https://img.shields.io/badge/C%23-6572a1?style=for-the-badge)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-6DB33F?style=for-the-badge)
