@@ -10,3 +10,10 @@
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ninetreba&style=flat-square&color=blue" alt=""/>
+</div>
+<h1>
+  Hi, I'm Nikolai Netreba👋
+</h1>
