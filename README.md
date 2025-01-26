@@ -25,7 +25,7 @@
 
 - :telescope: Реализовал несколько pet-проектов
 - :seedling: Активно продолжаю изучать Java и бэкенд в целом
-- :seedling: English - upper-intermediate
+- 🌍 English - upper-intermediate
 - :mailbox:Для связи: [![Telegram Badge](https://img.shields.io/badge/netreba-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/netreba)
 
 
