@@ -19,6 +19,7 @@
 </h1>
 
 
+
 ### :man_technologist: About Me :
 I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -54,4 +55,12 @@ I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
     </td>
   </tr>
 </table>
+
+
+## :fire: Статистика на GitHub
+<div>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-morozova&theme=github" width="561"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-morozova&theme=github"  width="273"/>   <br>    
+</div>
+
 
