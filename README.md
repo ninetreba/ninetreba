@@ -59,8 +59,8 @@ I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ## :fire: Статистика на GitHub
 <div>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-morozova&theme=github" width="561"/>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-morozova&theme=github"  width="273"/>   <br>    
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninetreba&theme=github" width="561"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninetreba&theme=github"  width="273"/>   <br>    
 </div>
 
 
