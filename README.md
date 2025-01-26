@@ -41,3 +41,17 @@ I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![JUnit](https://img.shields.io/badge/junit-%25A162.svg?style=for-the-badge&color=red&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+## ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ninetreba&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ninetreba&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
