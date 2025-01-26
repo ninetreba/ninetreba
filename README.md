@@ -25,5 +25,5 @@ I am a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: I continuously improve my level of tool proficiency and expand my understanding of development concepts.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Sanier-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sanier)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Sanier-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/netreba)
 
